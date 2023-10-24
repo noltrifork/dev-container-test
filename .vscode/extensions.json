@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "golang.go",
+        "mutantdino.resourcemonitor",
+        "ms-azuretools.vscode-docker"
+    ]
+}
